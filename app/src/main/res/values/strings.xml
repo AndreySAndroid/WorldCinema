@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorldCinemaTest</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="pass">Пароль</string>
+    <string name="signin">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="watch">Смотерть</string>
+    <string name="tv_watch">В тренде</string>
+</resources>
