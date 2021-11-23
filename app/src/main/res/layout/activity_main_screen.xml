@@ -26,12 +26,12 @@
                 android:layout_height="460dp"
                 app:srcCompat="@drawable/play" />
 
+
             <ImageView
                 android:id="@+id/imageView8"
                 android:layout_width="match_parent"
                 android:layout_height="460dp"
                 app:srcCompat="@drawable/fon_play" />
-
 
             <FrameLayout
                 android:layout_width="128dp"

@@ -4,6 +4,6 @@
     <string name="pass">Пароль</string>
     <string name="signin">Войти</string>
     <string name="reg">Регистрация</string>
-    <string name="watch">Глядеть</string>
+    <string name="watch">Глядеть и смотреть</string>
     <string name="tv_watch">В тренде</string>
 </resources>
