@@ -6,13 +6,16 @@
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/border.xml" value="0.2703125" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/bordergray.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/borderxxx.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/colorbtn.xml" value="0.2703125" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/dfdffddffdfdfd.xml" value="0.3828125" />
+        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/image_item.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/drawable/test.xml" value="0.2703125" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_main.xml" value="0.17" />
-        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_main_screen.xml" value="0.4" />
-        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
-        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_main_screen.xml" value="0.136" />
+        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_sign_in.xml" value="0.128" />
+        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/activity_sign_up.xml" value="0.176" />
+        <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/layout/image_item.xml" value="0.264" />
         <entry key="..\:/Users/djute/AndroidStudioProjects/WorldCinemaTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24351851851851852" />
       </map>
     </option>
