@@ -6,4 +6,9 @@
     <string name="reg">Регистрация</string>
     <string name="watch">Глядеть и смотреть</string>
     <string name="tv_watch">В тренде</string>
+    <string name="news">Новое</string>
+    <string name="for_you">Для вас</string>
+    <string name="st">Первый</string>
+    <string name="sd">Второй</string>
+    <string name="sdd">Третий</string>
 </resources>

@@ -11,7 +11,7 @@ class LaunchActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Handler().postDelayed({
-                val intent = Intent(this, SignIn::class.java)
+                val intent = Intent(this, MainScreen::class.java)
                 startActivity(intent)
                 finish()
             }, 3000)
